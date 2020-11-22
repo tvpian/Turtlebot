@@ -4,7 +4,7 @@
 
 ## Description
 
-Worked on Robotic Operation System(ROS). Tested and deployed algorithms to add basic functionalities like Tele-operation, Follower, Auto-docking etc. Advanced functionalities that were incorporated includes:
+Worked on an Robotic Operation System(ROS) enabled mobile robot - Turtlebot 2  . Tested and deployed algorithms to add basic functionalities like Tele-operation, Follower, Auto-docking etc. Advanced functionalities that were incorporated includes:
 1) Realtime Hand gesture control using Leap motion sensor.
 2) AR marker detection and tracking using depth cameras.
 3) Live skeleton tracking using Kinect depth cameras from Microsoft.
